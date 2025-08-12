@@ -15,6 +15,8 @@ The bot will respond with a new message in the chat, for example:
 
 > Robotic tape changer mistook operator's tie for a backup tape.
 
+<img width="568" height="204" alt="image" src="https://github.com/user-attachments/assets/dc28142e-b712-46ed-9a4d-9ee59179c773" />
+
 ## Installation
 
 1.  Build the plugin using the `mbc build` command.
